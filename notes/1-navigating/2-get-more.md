@@ -1,16 +1,15 @@
 https://portal.azure.com/#view/Microsoft_Azure_Resources/QuickstartTutorialBlade/checklistId/get-started-with-azure/sectionId/get-started-navigating-the-portal/lessonId/get-started-navigating-azure-portal
+https://www.youtube.com/watch?v=EqNJ9IQgODI
 
-https://www.youtube.com/watch?v=EqNJ9IQgODI&embeds_referring_euri=https%3A%2F%2Fportal.azure.com%2F
-
-0. Questions I have after watching:
+0. ## Questions I have after watching:
    - What is a "blade"? Seems like a web UI concept, maybe specific to this portal
    - What is an "app service"? Is that like app engine?
    - Is Azure Functions the same as lambdas and cloud fns?
-1. Summary:
+1. ## Summary:
    - There's a $200 "free" trial
    - 12 months of free services
    - permenantly free services
-2. You can get started
+2. ## You can get started
    - Free trial is 30 days or $200 of free credit
      - The $200 can be applied to anything
      - You can see list of free services online on the "free services blade"

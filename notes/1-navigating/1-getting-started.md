@@ -1,11 +1,10 @@
 https://portal.azure.com/#view/Microsoft_Azure_Resources/QuickstartTutorialBlade/checklistId/get-started-with-azure/sectionId/get-started-navigating-the-portal/lessonId/get-started-navigating-azure-portal
+https://www.youtube.com/watch?v=leJRc0JWzSY
 
-https://www.youtube.com/watch?v=leJRc0JWzSY&embeds_referring_euri=https%3A%2F%2Fportal.azure.com%2F
-
-0. Questions I have after watching:
+0. ## Questions I have after watching:
    - What is an "Azure MVP"?
    - What is a "Workload"?
-1. Summary:
+1. ## Summary:
 
    - Eric Boyd is an "Azure MVP" and founder of "responsive X"
    - browze services
@@ -14,7 +13,7 @@ https://www.youtube.com/watch?v=leJRc0JWzSY&embeds_referring_euri=https%3A%2F%2F
    - manage on-the-go
    - get familiar with portal
 
-2. Navigate to http://portal.azure.com
+2. ## Navigate to http://portal.azure.com
    - First time, you'll start in quickstart
      - https://portal.azure.com/#view/Microsoft_Azure_Resources/QuickstartCenterBlade
      - Guided project creation
