@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=EqNJ9IQgODI&embeds_referring_euri=https%3A%2F%2F
 0. Questions I have after watching:
    - What is a "blade"? Seems like a web UI concept, maybe specific to this portal
    - What is an "app service"? Is that like app engine?
-   - Is Azure Functions
+   - Is Azure Functions the same as lambdas and cloud fns?
 1. Summary:
    - There's a $200 "free" trial
    - 12 months of free services
