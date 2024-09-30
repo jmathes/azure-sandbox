@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=leJRc0JWzSY
 0. ## Questions I have after watching:
    - What is an "Azure MVP"?
    - What is a "Workload"?
+   - What is "Responsive X"?
 1. ## Summary:
 
    - Eric Boyd is an "Azure MVP" and founder of "responsive X"
